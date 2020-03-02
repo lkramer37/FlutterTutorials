@@ -1,0 +1,6 @@
+setState calls build widget
+Causes rebuild:
+    MediaQuery
+    LayoutBuilder
+
+Stateful widget calls setState
